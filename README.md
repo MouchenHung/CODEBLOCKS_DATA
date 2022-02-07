@@ -1,7 +1,7 @@
 # CODEBLOCKS_DATA
 Store all codeblocks' relative project
 ### CONFIG
-- OS
+- OS\
   Linux development
 ### USAGE
 none
