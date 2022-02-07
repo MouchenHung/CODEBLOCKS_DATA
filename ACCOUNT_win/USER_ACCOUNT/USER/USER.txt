@@ -1,0 +1,1 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]

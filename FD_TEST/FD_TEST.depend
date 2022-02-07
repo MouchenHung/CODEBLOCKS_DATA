@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612516458 source:/home/mouchen/Documents/CODEBLOCKS_data/FD_TEST/main.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<assert.h>
+

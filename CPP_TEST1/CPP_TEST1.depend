@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611734557 source:/home/mouchen/Documents/CODEBLOCKS_data/CPP_TEST1/main.cpp
+	<iostream>
+	<unistd.h>
+	<thread>
+	<pthread.h>
+	<csignal>
+

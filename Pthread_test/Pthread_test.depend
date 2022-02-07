@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620024447 source:/home/mouchen/Documents/CODEBLOCKS_data/Pthread_test/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<signal.h>
+	<string.h>
+

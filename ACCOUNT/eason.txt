@@ -1,0 +1,3 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.14 Salary quanta 100000 --- --- 0 100000 100000
+2020.08.14 --- --- 0 MonthlyPayment netflix 390 100000 99610

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625217513 source:/home/mouchen/Documents/CODEBLOCKS_data/GAMMING/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<termios.h>
+	<sys/time.h>
+

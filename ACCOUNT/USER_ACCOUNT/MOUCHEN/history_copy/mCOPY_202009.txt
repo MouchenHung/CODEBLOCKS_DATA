@@ -1,0 +1,9 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.19 --- --- 0 Others ddd 500 0 -500
+2020.08.19 --- --- 0 Withdraw dfdfd 1000 0 -1500
+2020.08.19 --- --- 0 Others ddd 100 0 -1600
+2020.08.21 Salary quanta 123 --- --- 0 123 -1477
+2020.08.21 Salary quanta 50000 --- --- 0 50123 48523
+2020.08.23 --- --- 0 Withdraw dd 500 50123 48023
+2020.08.26 --- --- 0 MonthlyPayment dfdfds 10 50123 48013
+2020.09.66 --- --- 0 Others ddd 100 50123 47913

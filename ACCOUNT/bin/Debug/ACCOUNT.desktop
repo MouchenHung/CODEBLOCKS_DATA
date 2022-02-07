@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ACCOUNT
+Comment=open ACCOUNT IDE
+Exec=/home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT/bin/Debug/ACCOUNT
+Icon=/home/ccs96307/pycharm-community-2018.2.3/bin/pycharm.png
+Terminal=true
+Type=Application

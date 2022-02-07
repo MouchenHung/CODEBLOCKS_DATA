@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611647206 source:/home/mouchen/Documents/CODEBLOCKS_data/CPP_TEST0/main.cpp
+	<iostream>
+	<unistd.h>
+	<thread>
+	<pthread.h>
+

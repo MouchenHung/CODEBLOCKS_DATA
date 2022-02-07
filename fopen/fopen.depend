@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621491727 source:/home/mouchen/Documents/CODEBLOCKS_data/fopen/main.c
+	<stdio.h>
+	<stdlib.h>
+

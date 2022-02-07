@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625038650 source:/home/mouchen/Documents/CODEBLOCKS_data/Sort_test/main.c
+	<stdio.h>
+	<stdlib.h>
+

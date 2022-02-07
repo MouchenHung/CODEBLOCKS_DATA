@@ -1,0 +1,5 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.10 --- --- 0 MonthlyPayment netflix 390 0 -390
+2020.08.22 Salary quanta 50000 --- --- 0 50000 49610
+2020.08.22 --- --- 0 Withdraw 7-11 500 50000 49110
+2020.09.10 Others ddf 4000 --- --- 0 50000 53110

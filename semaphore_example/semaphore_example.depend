@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619428470 source:/home/mouchen/Documents/CODEBLOCKS_data/semaphore_example/main.c
+	<unistd.h>
+	<sys/types.h>
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	<semaphore.h>
+

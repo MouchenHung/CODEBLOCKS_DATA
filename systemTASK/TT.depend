@@ -1,0 +1,194 @@
+# depslib dependency file v1.0
+1594793846 source:d:\codeblocks_data\tt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"include.h"
+
+1594793588 "
+
+1594794133 d:\codeblocks_data\tt\include.h
+
+1594793588 source:d:\codeblocks_data\tt\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	"include.h"
+
+1594782917 source:d:\codeblocks_data\tt\c file\c_file.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594800769 e.h"
+
+1594783080 source:d:\codeblocks_data\tt\c file\c_file1.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594792350 source:d:\codeblocks_data\tt\c file\c_file2.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594792334 source:d:\aat\iet.c
+
+1594792665 source:d:\codeblocks_data\tt\c file\c_file3.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594793942 source:d:\codeblocks_data\tt\task\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594782917 source:d:\codeblocks_data\systemtask\c file\c_file.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594794133 d:\codeblocks_data\systemtask\include.h
+
+1594783080 source:d:\codeblocks_data\systemtask\c file\c_file1.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594792350 source:d:\codeblocks_data\systemtask\c file\c_file2.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594792665 source:d:\codeblocks_data\systemtask\c file\c_file3.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594947245 source:d:\codeblocks_data\systemtask\main.c
+	<stdio.h>
+	<stdlib.h>
+	"task head/task_head.h"
+
+1594947245 /task_head.h"
+
+1594868541 source:d:\codeblocks_data\systemtask\task content\calculator_main.c
+	<stdio.h>
+	<stdlib.h>
+	"toolbox_h/tool_head.h"
+	"../task head/task_head.h"
+
+1594891815 ead/task_head.h"
+
+1594891163 d:\codeblocks_data\systemtask\task head\task_head.h
+
+1594878876 d:\codeblocks_data\systemtask\task content\toolbox_h\tool_head.h
+	<stdio.h>
+	<stdlib.h>
+
+1594878876 
+
+1594891815 source:d:\codeblocks_data\systemtask\task content\stringizingoperator_main.c
+	<stdio.h>
+	<stdlib.h>
+	"../task head/task_head.h"
+	"toolbox_h/tool_head.h"
+
+1594891815 /tool_head.h"
+
+1594800048 source:d:\codeblocks_data\systemtask\task content\toolbox_c\calculator_tool.c
+	<stdio.h>
+	<stdlib.h>
+	"../toolbox_h/tool_head.h"
+
+1594878928 x_h/tool_head.h"
+
+1594800769 source:d:\codeblocks_data\systemtask\task content\headerandexterntest_main.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1594878773 source:d:\codeblocks_data\systemtask\task content\linkedlistwithstack_main.c
+	<stdio.h>
+	<stdlib.h>
+	"toolbox_h/tool_head.h"
+	"../task head/task_head.h"
+
+1594877890 d:\codeblocks_data\systemtask\task content\toolbox_h\tool_head_1.h
+
+1594878928 source:d:\codeblocks_data\systemtask\task content\toolbox_c\linkedlistwithstack_tool.c
+	<stdio.h>
+	<stdlib.h>
+	"../toolbox_h/tool_head.h"
+
+1594891815 source:d:\codeblocks_data\systemtask\task content\asserttest_main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"../task head/task_head.h"
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/c file/c_file.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1596596979 /home/mouchen/Documents/CODEBLOCKS_data/systemTASK/include.h
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/c file/c_file1.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/c file/c_file2.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/c file/c_file3.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1596593218 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/main.c
+	<stdio.h>
+	<stdlib.h>
+	"task head/task_head.h"
+
+1595572947 /home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task head/task_head.h
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/Calculator_main.c
+	<stdio.h>
+	<stdlib.h>
+	"toolbox_h/tool_head.h"
+	"../task head/task_head.h"
+
+1596593708 /home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/toolbox_h/tool_head.h
+	<stdio.h>
+	<stdlib.h>
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/HeaderAndExternTest_main.c
+	<stdio.h>
+	<stdlib.h>
+	"../include.h"
+
+1596593503 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/LinkedListWithStack_main.c
+	<stdio.h>
+	<stdlib.h>
+	"toolbox_h/tool_head.h"
+	"../task head/task_head.h"
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/StringizingOperator_main.c
+	<stdio.h>
+	<stdlib.h>
+	"../task head/task_head.h"
+	"toolbox_h/tool_head.h"
+
+1595572947 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/toolbox_c/Calculator_tool.c
+	<stdio.h>
+	<stdlib.h>
+	"../toolbox_h/tool_head.h"
+
+1596593722 source:/home/mouchen/Documents/CODEBLOCKS_data/systemTASK/task content/toolbox_c/LinkedListWithStack_tool.c
+	<stdio.h>
+	<stdlib.h>
+	"../toolbox_h/tool_head.h"
+

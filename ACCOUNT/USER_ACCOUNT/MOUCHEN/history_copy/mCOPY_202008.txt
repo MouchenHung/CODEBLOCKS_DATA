@@ -1,0 +1,6 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.21 Salary quanta 123 --- --- 0 123 123
+2020.08.21 Salary quanta 50000 --- --- 0 50123 50123
+2020.08.21 --- --- 0 Withdraw ddf 50 50123 50073
+2020.08.26 --- --- 0 Withdraw 500 500 50123 49573
+2020.08.26 Others fff 600 --- --- 0 50123 50173

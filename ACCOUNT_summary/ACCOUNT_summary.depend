@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1601428052 source:/home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_summary/lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"./usefulTOOL.h"
+
+1599290221 /home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_summary/usefulTOOL.h
+
+1601433088 source:/home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_summary/main.c
+	<stdio.h>
+	<stdlib.h>
+	"./usefulTOOL.h"
+
+1597820566 source:/home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_summary/_termios.c
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	"usefulTOOL.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619506181 source:/home/mouchen/Documents/CODEBLOCKS_data/pthread_cond_wait_example/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+

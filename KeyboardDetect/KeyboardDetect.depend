@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603159956 source:/home/mouchen/Documents/CODEBLOCKS_data/KeyboardDetect/main.c
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+

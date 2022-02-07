@@ -1,0 +1,2 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.24 Salary quanta 50000 --- --- 0 50000 50000

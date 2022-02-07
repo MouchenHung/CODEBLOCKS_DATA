@@ -1,0 +1,12 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.17 Salary quanta 50000 --- --- 0 50000 50000
+2020.08.17 --- --- 0 Withdraw 7-11 500 50000 49500
+2020.08.18 --- --- 0 MonthlyPayment netflix 390 50000 49110
+2020.08.18 Bonus jj 5000 --- --- 0 55000 54110
+2020.08.18 Salary quanta 4000 --- --- 0 59000 58110
+2020.08.18 Salary ]50000 50000 --- --- 0 109000 108110
+2020.08.18 --- --- 0 Withdraw airpodspro 6000 109000 102110
+2020.08.18 Salary kjl 50000 --- --- 0 159000 152110
+2020.08.29 --- --- 0 Withdraw dontknow 555 159000 151555
+2020.08.18 Salary quanta 50000 --- --- 0 209000 201555
+2020.08.26 --- --- 0 MonthlyPayment gogoro 499 209000 201056

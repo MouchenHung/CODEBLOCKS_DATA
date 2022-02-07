@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596543182 source:/home/mouchen/Documents/CODEBLOCKS_data/FIRST/main.c
+	<stdio.h>
+	<stdlib.h>
+

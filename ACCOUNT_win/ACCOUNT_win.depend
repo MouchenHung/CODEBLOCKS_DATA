@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1598060997 source:d:\clockblocks_data\account_win\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usefulTOOL.h"
+
+1598198357 L.h"
+
+1598062248 d:\clockblocks_data\account_win\usefultool.h
+
+1598198357 source:d:\clockblocks_data\account_win\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"usefulTOOL.h"
+
+1598060997 source:/home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_win/lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usefulTOOL.h"
+
+1598228237 /home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_win/usefulTOOL.h
+
+1598200196 source:/home/mouchen/Documents/CODEBLOCKS_data/ACCOUNT_win/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"usefulTOOL.h"
+

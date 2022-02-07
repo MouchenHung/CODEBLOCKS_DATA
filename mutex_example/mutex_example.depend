@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619661508 source:/home/mouchen/Documents/CODEBLOCKS_data/mutex_example/main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<pthread.h>
+	<semaphore.h>
+

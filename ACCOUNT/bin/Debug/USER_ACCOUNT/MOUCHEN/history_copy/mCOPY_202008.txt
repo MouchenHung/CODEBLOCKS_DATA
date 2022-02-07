@@ -1,0 +1,17 @@
+[date] [pITEM_CLASS] [pITEM_NAME] [pITEM_VAL] [mITEM_CLASS] [mITEM_NAME] [mITEM_VAL] [totalSALARY] [totalCURRENT]
+2020.08.04 Others START 8519 --- --- 0 0 8519
+2020.08.05 Salary quanta 47552 --- --- 0 47552 56071
+2020.08.06 --- --- 0 Withdraw bank 2000 47552 54071
+2020.08.07 --- --- 0 Withdraw bank 1000 47552 53071
+2020.08.12 --- --- 0 Others card 1207 47552 51864
+2020.08.12 --- --- 0 Others card 754 47552 51110
+2020.08.14 --- --- 0 Others card 333 47552 50777
+2020.08.19 --- --- 0 Others card 33 47552 50744
+2020.08.20 --- --- 0 Others card 30 47552 50714
+2020.08.24 --- --- 0 Withdraw 7-11 1000 47552 49714
+2020.08.26 --- --- 0 Others card 1010 47552 48704
+2020.08.26 --- --- 0 Others card 500 47552 48204
+2020.08.28 --- --- 0 Others card 953 47552 47251
+2020.08.28 --- --- 0 Withdraw bank 1000 47552 46251
+2020.08.31 --- --- 0 MonthlyPayment netflix 396 47552 45855
+2020.08.31 --- --- 0 Withdraw bank 1000 47552 44855

@@ -1,0 +1,5 @@
+Decathlon_Bracer 300
+Coffee_Cup  450
+Desktop 30,000
+Iphone12 40,000
+AUDI_Q3sportback 2500000

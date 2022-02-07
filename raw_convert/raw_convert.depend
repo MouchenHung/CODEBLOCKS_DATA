@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601886733 source:/home/mouchen/Documents/CODEBLOCKS_data/raw_convert/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

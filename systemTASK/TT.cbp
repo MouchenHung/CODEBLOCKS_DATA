@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="c file/c_file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c file/c_file1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c file/c_file2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c file/c_file3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="include.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/BinarySearchTree_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/Calculator_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/HeaderAndExternTest_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/LinkedListWithStack_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/StringizingOperator_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/toolbox_c/Calculator_tool.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/toolbox_c/LinkedListWithStack_tool.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task content/toolbox_h/tool_head.h" />
+		<Unit filename="task head/task_head.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
